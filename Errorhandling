@@ -4,7 +4,7 @@ pragma solidity ^0.8.13;
 contract Error {
      uint public num;
 
-    function testAssert(uint num) public view {
+    function testAssert() public view {
         // Assert should only be used to test for internal errors,
         // and to check invariants.
 
