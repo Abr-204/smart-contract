@@ -38,7 +38,7 @@ Check Each Funtion's  output .
 
 ## Authors
 
-Aishwarya
+Abhay Rana
 
 
 ## License
